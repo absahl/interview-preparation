@@ -1,2 +1,2 @@
-# algorithms-crash-course
-Algorithms crash course on Educative
+# algorithms-for-interview-preparation
+Algorithms for interview preparation.
