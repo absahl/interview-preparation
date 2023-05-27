@@ -1,2 +1,3 @@
-# algorithms-for-interview-preparation
-Algorithms for interview preparation.
+# Interview Preparation
+
+Interview preparation material/content for approaching interviews.
